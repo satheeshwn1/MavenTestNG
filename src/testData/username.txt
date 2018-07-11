@@ -1,0 +1,12 @@
+{"employees":[
+  { "firstName":"Satheesh", "password":"Password123",
+  "Company List": [
+          "Compnay: cts",
+          "Compnay: pramati",
+          "Compnay: Thoughtworks"
+      ]
+
+  },
+  { "firstName":"Anna", "password":"Smith" },
+  { "firstName":"Peter", "password":"Jones" }
+]}
